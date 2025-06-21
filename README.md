@@ -1,9 +1,8 @@
 # Relatório de Análise Estatística
 
-> **Tema**: *\[Insira o título do seu trabalho aqui]*
-
-> **Autores**: *\[Nome do(s) autor(es)]*
-> **Data**: *\[DD/MM/AAAA]*
+**Tema**: *\[Insira o título do seu trabalho aqui]*  
+**Autores**: *\[Nome do(s) autor(es)]*  
+**Data**: *\[DD/MM/AAAA]*
 
 ## 1\. Introdução
 
